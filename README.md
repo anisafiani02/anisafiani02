@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anisa Fiani
 - 👀 I’m interested in Front end Developer and about Networking 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me = anisafiani635@gmail.com
 
 <!---
